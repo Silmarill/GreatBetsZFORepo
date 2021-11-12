@@ -9,7 +9,7 @@
 using namespace std;
 
 int main() {
-  int a = 7;
+  int a = 12;
   cout << "Hello World " << a;
   return 0;
 }
